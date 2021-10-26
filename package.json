@@ -1,0 +1,16 @@
+{
+  "name": "@incloud/prettier-config",
+  "version": "1.0.0",
+  "description": "INCLOUD Standard Prettier Config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incloud/prettier-config.git"
+  },
+  "author": "Incloud Engineering GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incloud/prettier-config/issues"
+  },
+  "homepage": "https://github.com/incloud/prettier-config#readme"
+}
